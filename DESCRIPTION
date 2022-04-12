@@ -1,6 +1,6 @@
 Package: nlsic
 Title: Non Linear Least Squares with Inequality Constraints
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     person(given = "Serguei",
            family = "Sokol",
@@ -34,7 +34,7 @@ Suggests: numDeriv, RUnit, limSolve
 URL: https://github.com/MathsCell/nlsic
 BugReports: https://github.com/MathsCell/nlsic/issues
 NeedsCompilation: no
-Packaged: 2022-01-10 09:24:32 UTC; sokol
+Packaged: 2022-04-12 13:45:01 UTC; sokol
 Author: Serguei Sokol [aut, cre] (<https://orcid.org/0000-0002-5674-3327>)
 Repository: CRAN
-Date/Publication: 2022-01-11 10:02:42 UTC
+Date/Publication: 2022-04-12 16:00:06 UTC

@@ -1,7 +1,7 @@
-c372cb5242d34e922494a222d90ffdff *DESCRIPTION
+52eed861db9edcf78ade73c479f0b1b4 *DESCRIPTION
 4edeeb360737dc58d587e2ac4097bddb *NAMESPACE
-79b9410a7a64994ec65cc0eee66ae4c5 *NEWS.md
-1f2a5b78df9a95446a4bc58308a5c686 *R/nlsic.R
+4cb5867aa0e3bce4499f07bb644c7420 *NEWS.md
+cdaaf9a40ae41386ab8e4984fdad6d31 *R/nlsic.R
 8b9b709a633a1aac5725ed231d570db8 *inst/unitTests/runit.nlsic.R
 3ba49301a552aa515af9a7b75aed89df *man/Nulla.Rd
 f6ab6baa4a2598563eb4b6f5e191c901 *man/equa2vecmat.Rd
@@ -9,7 +9,7 @@ f6ab6baa4a2598563eb4b6f5e191c901 *man/equa2vecmat.Rd
 b33d539d3ea93b151a229798ad38315b *man/ldp.Rd
 a2e9b361c5a8015dade0bff269b5bdce *man/ls_ln.Rd
 32fae14515c796157f2df863154dccac *man/ls_ln_svd.Rd
-2a9d4f1be9c13acc04406a6e1c5d91af *man/lsi.Rd
+b1b6bd147b90b08dd90a7e2532dafe1f *man/lsi.Rd
 65a846357f6dc51d1d11cfa21e817fe0 *man/lsi_ln.Rd
 ebf709c1aea2c7d980475cbcede637e7 *man/lsi_reg.Rd
 86fee77a282c9e3196cdd432b5a652bb *man/lsie_ln.Rd
