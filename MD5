@@ -1,7 +1,7 @@
-52eed861db9edcf78ade73c479f0b1b4 *DESCRIPTION
+e8a8dea15ffd702f20c08e868b3c21e8 *DESCRIPTION
 4edeeb360737dc58d587e2ac4097bddb *NAMESPACE
-4cb5867aa0e3bce4499f07bb644c7420 *NEWS.md
-cdaaf9a40ae41386ab8e4984fdad6d31 *R/nlsic.R
+1da3a56cf5eece01f11999a8b3dd840d *NEWS.md
+903ab7cd9ca47359127918eeb9a78027 *R/nlsic.R
 8b9b709a633a1aac5725ed231d570db8 *inst/unitTests/runit.nlsic.R
 3ba49301a552aa515af9a7b75aed89df *man/Nulla.Rd
 f6ab6baa4a2598563eb4b6f5e191c901 *man/equa2vecmat.Rd
