@@ -1,6 +1,6 @@
 Package: nlsic
 Title: Non Linear Least Squares with Inequality Constraints
-Version: 1.0.4
+Version: 1.1.0
 Authors@R: 
     person(given = "Serguei",
            family = "Sokol",
@@ -28,13 +28,14 @@ Description: We solve non linear least squares problems with optional
     published in Sokol et al. (2012) <doi:10.1093/bioinformatics/btr716>.
 License: GPL-2
 Encoding: UTF-8
-RoxygenNote: 7.1.1
-Depends: nnls
+RoxygenNote: 7.3.2
+Depends: nnls, dotty
 Suggests: numDeriv, RUnit, limSolve
 URL: https://github.com/MathsCell/nlsic
 BugReports: https://github.com/MathsCell/nlsic/issues
 NeedsCompilation: no
-Packaged: 2023-06-26 10:04:02 UTC; sokol
-Author: Serguei Sokol [aut, cre] (<https://orcid.org/0000-0002-5674-3327>)
+Packaged: 2025-05-16 14:24:36 UTC; sokol
+Author: Serguei Sokol [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-5674-3327>)
 Repository: CRAN
-Date/Publication: 2023-06-26 10:30:02 UTC
+Date/Publication: 2025-05-16 15:20:02 UTC
